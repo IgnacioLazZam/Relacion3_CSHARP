@@ -1,0 +1,7 @@
+C:\Users\ilazzam1811\source\repos\Relación_3\Relación_3\bin\Debug\Relación_3.exe.config
+C:\Users\ilazzam1811\source\repos\Relación_3\Relación_3\bin\Debug\Relación_3.exe
+C:\Users\ilazzam1811\source\repos\Relación_3\Relación_3\bin\Debug\Relación_3.pdb
+C:\Users\ilazzam1811\source\repos\Relación_3\Relación_3\obj\Debug\Relación_3.csproj.AssemblyReference.cache
+C:\Users\ilazzam1811\source\repos\Relación_3\Relación_3\obj\Debug\Relación_3.csproj.CoreCompileInputs.cache
+C:\Users\ilazzam1811\source\repos\Relación_3\Relación_3\obj\Debug\Relación_3.exe
+C:\Users\ilazzam1811\source\repos\Relación_3\Relación_3\obj\Debug\Relación_3.pdb
