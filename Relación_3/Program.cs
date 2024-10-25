@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Relación_3
-{
+
     internal class Program
     {
         static void Main(string[] args)
